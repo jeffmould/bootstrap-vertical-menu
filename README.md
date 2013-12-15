@@ -10,6 +10,6 @@ The menu runs down the left side with the content to the right.
 
 It is fully-responsive and switches to a horizontal menu on mobile devices (screen sizes below 768px).
 
-For more information on how this works, see my <a href="http://www.jeffmould.com/">Blog</a>.
+For more information on how this works, see my <a href="http://www.jeffmould.com/2013/12/15/create-twitter-bootstrap-vertical-drop-menu/">Blog</a>.
 
 
